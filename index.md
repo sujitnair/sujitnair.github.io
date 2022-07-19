@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Hi, I’m Sujit. I am a Product Growth lead at Databricks. My team is empowered to drive user growth by enhancing the sign-up and on-boarding customer journey.
 
-You can use the [editor on GitHub](https://github.com/sujitnair/sujitnair.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Prior to Databricks, I worked with Atlassian, LinkedIn, Edmodo, and UTRC as an employee. And I worked with Shopkick, Affirm, Entelo, Cheetah, Datacoral, and Woven as an advisor with a focus on data science, machine learning, and product growth.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Deep down, I’m a mix of geek and nerd. Erudition is important to me, and so is traveling. I love nature for the serene and immersive experience she offers, and as an observer with paper, pencil and equations.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sujitnair/sujitnair.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Outside work I enjoy DIY, cooking, photography, carpentry, sewing, aquascaping, and concerts. I plan to share fascinating observations on this blog!
